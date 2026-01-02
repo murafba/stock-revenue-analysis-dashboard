@@ -39,12 +39,14 @@ The analysis is performed in a **Jupyter Notebook**, combining data collection, 
 ---
 
 ## 📁 Project Structure
+```
 stock-revenue-analysis/
 ├── notebooks/
 │ └── Revenue_Data_and_Building_a_Dashboard.ipynb
 ├── images/
 ├── README.md
 └── LICENSE
+```
 
 ---
 
