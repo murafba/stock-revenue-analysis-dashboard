@@ -32,6 +32,16 @@ The analysis is performed in a **Jupyter Notebook**, combining data collection, 
 
 ---
 
+## 📊 Dashboard Preview
+
+### Tesla — Stock Price & Revenue
+![Tesla Dashboard](images/tesla_dashboard.png)
+
+### GameStop — Stock Price & Revenue
+![GameStop Dashboard](images/gamestop_dashboard.png)
+
+---
+
 ## 🗂️ Data Sources
 - 📈 **Yahoo Finance** — historical stock price data  
 - 💰 **Macrotrends** — company revenue data  
