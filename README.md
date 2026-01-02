@@ -54,6 +54,8 @@ stock-revenue-analysis/
 ├── notebooks/
 │ └── Revenue_Data_and_Building_a_Dashboard.ipynb
 ├── images/
+│ ├── gamestop_dashboard.png
+│ └── tesla_dashboard.png
 ├── README.md
 └── LICENSE
 ```
